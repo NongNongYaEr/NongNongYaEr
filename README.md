@@ -39,6 +39,23 @@
 
 **项目文档已开放，软件源码与发行包筹备中。** [查看项目说明 →](https://github.com/NongNongYaEr/ShuYaEr)
 
+## 从作品，认识工具
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NongNongYaEr/ShuYaEr/blob/main/docs/gallery.md"><img src="https://raw.githubusercontent.com/NongNongYaEr/ShuYaEr/main/docs/images/camphor.png" width="580" alt="树鸭儿香樟样板的实际视口画面" /></a>
+      <p><strong>树冠与骨架</strong> · 香樟样板</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/NongNongYaEr/ShuYaEr/blob/main/docs/gallery.md"><img src="https://raw.githubusercontent.com/NongNongYaEr/ShuYaEr/main/docs/images/jasmine.png" width="580" alt="树鸭儿茉莉样板的实际视口画面" /></a>
+      <p><strong>枝叶与花朵</strong> · 茉莉样板</p>
+    </td>
+  </tr>
+</table>
+
+来自软件的实际画面。[浏览植物作品 ↗](https://github.com/NongNongYaEr/ShuYaEr/blob/main/docs/gallery.md)　·　[开发计划](https://github.com/NongNongYaEr/ShuYaEr/blob/main/docs/roadmap.md)　·　[参与改进](https://github.com/NongNongYaEr/ShuYaEr/blob/main/CONTRIBUTING.md)
+
 ## 从这里开始
 
 <table width="100%">
